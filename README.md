@@ -1,3 +1,3 @@
       
-<h1> Hi!! I am Samuel Kibe, A data sciencist. Nice to meet you </h1>
-<H2> Welcome to my page </H2>
+<h1> style="color:blue; Hi!! I am Samuel Kibe, A data sciencist. Nice to meet you </h1>
+<H2> style="color:red; Welcome to my page </H2>
