@@ -1,5 +1,4 @@
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-     
+<hi> Hi!! Nice to meet you <hi>
           
         
         
