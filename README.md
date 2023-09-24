@@ -18,7 +18,7 @@
   <footer class="footer bg-primary pb-3">
     <div class="container">
       <div class="flex justify-between align-center mb-3">
-        <h1 class="text-logo on-primary">ryan</h1>
+        <h1 class="text-logo on-primary">KIBE</h1>
         <div>
           <a href="https://github.com/RyanKoech" target="_blank"><i class="uil uil-github footer-icon mr-3 on-primary icon-medium"></i></a>
           <a href="https://twitter.com/ryandevsss" target="_blank"><i class="uil uil-twitter footer-icon mr-3 on-primary icon-medium"></i></a>
