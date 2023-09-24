@@ -20,5 +20,4 @@
       <div class="text-center on-primary alpha50">
         © <span id="footer_year_text" class="on-primary"></span> 2023. All rights reserved
       </div>
-    </div>
   </footer>
