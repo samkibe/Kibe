@@ -5,10 +5,10 @@
 
  <!-- Me section -->
   <section class="container">
-    <h2 class="h2 mb-5"> While you are here,</h2>
+     While you are here
     <div class="me text-center flex">
-      <div class="w-full text-end"> it is all about &nbsp;</div>
-      <div id="hobbies_text" class="w-full text-start">DATA</div>
+      <div class="w-full text-end">  While you are here, it is all about &nbsp;</div>
+      <div id="hobbies_text" class="w-full text-start"> | DATA | Its mining & Analysis</div>
     </div>
     <!-- Todo : Cycle through different things i like -->
   </section>
