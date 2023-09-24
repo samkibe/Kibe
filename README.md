@@ -5,7 +5,7 @@
 
  <!-- Me section -->
   <section class="container">
-     While you are here
+
     <div class="me text-center flex">
       <div class="w-full text-end">  While you are here, it is all about &nbsp;</div>
       <div id="hobbies_text" class="w-full text-start"> | DATA | Its mining & Analysis</div>
