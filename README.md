@@ -27,7 +27,7 @@
       </div>
       <div class="flex justify-between align-center alpha75 align-start">
         <div class="on-primary flex-fill">
-          looking forward to working with you
+          Data telling us the businesss story
         </div>
         <div class="on-primary flex-fil">
           Nairobi, Kenya
