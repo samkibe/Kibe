@@ -1,8 +1,4 @@
-tittle: Samuel kibe
+tittle: "Samuel kibe"
 logo: /assets/port.jpeg
 description: Data Science Portfolio || &Personal blog 
- <div class="me text-center flex">
-      <div class="w-full text-end">i love&nbsp;</div>
-      <div id="hobbies_text" class="w-full text-start">cycling</div>
-    </div>
   theme: jekyll-theme-minimal
