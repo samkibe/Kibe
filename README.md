@@ -9,7 +9,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/about/" >About</a>
+              <a href="/https://samkibe.github.io/Kibe/">About</a>
             </li><li class="masthead__menu-item">
               <a href="/categories/machine-learning/" >Data Science</a>
             </li><li class="masthead__menu-item">
@@ -28,8 +28,6 @@
   </div>
 </div>
 
-
-    <div class="initial-content">
 
  <!-- Me section -->
  <section class="container">
