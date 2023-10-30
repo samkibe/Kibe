@@ -21,3 +21,4 @@
         © <span id="footer_year_text" class="on-primary"></span> 2023. All rights reserved
       </div>
   </footer>
+![retrocoding](https://github.com/samkibe/samkibe.github.io/assets/25104443/6edd7a26-6905-4d08-8d5b-661c3163e78a)
