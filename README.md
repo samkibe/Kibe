@@ -4,7 +4,6 @@
   <a href="#contact">Data Analytics</a>
     <a href="#search">Stories of Amazing Grace</a>
     <a href="#about">What if</a>
-  </div>
 </div>
 
 
