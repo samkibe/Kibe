@@ -22,7 +22,7 @@
   <footer class="footer bg-primary pb-3">
   
       <div class="text-center on-primary alpha50">
-        © <span id="footer_year_text" class="on-primary"></span> 2023. All rights reserved
+        © <span id="footer_year_text" class="on-primary"></span> 2023, Samuel Kibe. All rights reserved
       </div>
   </footer>
 
