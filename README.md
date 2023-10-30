@@ -15,7 +15,7 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/software-engineering/" >Data Analytics</a>
            <!-- </li><li class="masthead__menu-item"> -->
-              <a href="/categories/hadoop-spark/" >Stories of Amazing Grace</a>
+              <a href="/Stories of Amazing Grace/" >Stories of Amazing Grace</a>
             </li></ul>
             
         <ul class="hidden-links hidden"></ul>
