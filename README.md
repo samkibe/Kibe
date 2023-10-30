@@ -29,13 +29,14 @@
 
     
       <div class="text-center on-primary alpha50">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <a href="#" class="fa fa-facebook"></a>
+      <a href="#" class="fa fa-twitter"></a>
+      </d>
          
       <div class="text-center on-primary alpha50">
         © <span id="footer_year_text" class="on-primary"></span> 2023, Samuel Kibe. All rights reserved
   
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
 
       </div>
        </div>
