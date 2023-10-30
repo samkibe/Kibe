@@ -32,10 +32,7 @@
          
       <div class="text-center on-primary alpha50">
         © <span id="footer_year_text" class="on-primary"></span> 2023, Samuel Kibe. All rights reserved
-         <div class="me text-center flex">
-      <div class="w-full text-end">i love&nbsp;</div>
-      <div id="hobbies_text" class="w-full text-start">cycling</div>
-    </div>
+        
       </div>
        </div>
   </footer>
