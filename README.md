@@ -6,6 +6,7 @@
     
     <h1> Hi!! I am Samuel Kibe, A data sciencist. Nice to meet you </h1>
      <h2> Welcome to my page </h2>
+![retrocity](https://github.com/samkibe/samkibe.github.io/assets/25104443/fc5547c9-c57d-4c30-b03b-70b684ac0e8f)
 
 
       <div class="w-full text-end">  While you are here, it is all about &nbsp;</div>
