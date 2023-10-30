@@ -5,7 +5,7 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          José Lise
+      Samuel Kibe
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
