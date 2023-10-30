@@ -5,7 +5,6 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/https://github.com/samkibe/">
-      Samuel Kibe
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
