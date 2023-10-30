@@ -4,7 +4,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/">
+        <a class="site-title" href="/https://github.com/samkibe/">
       Samuel Kibe
           
         </a>
