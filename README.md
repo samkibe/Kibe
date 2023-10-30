@@ -4,7 +4,7 @@
 
 <div class="me text-center flex">
     
-    <h1> Hi world! nice to meet you!! I Suppose you treasure Data like a i do </h1>
+    <h1> Hi world! nice to meet you!! I Suppose you treasure Data like we all do </h1>
      <h2>Very welcome to my blog % page !</h2>
 
 
