@@ -1,4 +1,4 @@
-<header align = top>
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -25,7 +25,7 @@
     </div>
   </div>
 </div>
-</header>
+
 
  <!-- Me section -->
  <section class="container">
