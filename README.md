@@ -14,7 +14,7 @@
               <a href="/categories/machine-learning/" >Data Science</a>
             </li><li class="masthead__menu-item">
               <a href="/categories/software-engineering/" >Data Analytics</a>
-           <!-- </li><li class="masthead__menu-item"> -->
+            </li><li class="masthead__menu-item">
               <a href="/Stories of Amazing Grace/" >Stories of Amazing Grace</a>
             </li></ul>
             
