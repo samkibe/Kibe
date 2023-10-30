@@ -3,20 +3,20 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/https://github.com/samkibe/">
-          
-        </a>
+    
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/https://samkibe.github.io/Kibe/">About</a>
+              
             </li><li class="masthead__menu-item">
               <a href="/categories/machine-learning/" >Data Science</a>
+              
             </li><li class="masthead__menu-item">
               <a href="/categories/software-engineering/" >Data Analytics</a>
+              
             </li><li class="masthead__menu-item">
               <a href="/Stories of Amazing Grace/" >Stories of Amazing Grace</a>
-            </li></ul>
-            
+              
+            </li></ul>   
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
