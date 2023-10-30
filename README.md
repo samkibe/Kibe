@@ -29,8 +29,8 @@
 
 <div class="me text-center flex">
     
-    <h2> Hi world! nice to meet you!! I Suppose you treasure Data like we all do, well, I am a current MSc Data science student, with a foundation in Business intelligence</h2>
-     <h3>Very welcome to my blog % page !</h3>
+    <h3> Hi world! nice to meet you!! I Suppose you treasure Data like we all do, well, I am a current MSc Data science student, with a foundation in Business intelligence</h3>
+     <h2>Very welcome to my blog % page !</h2>
 
 
 
