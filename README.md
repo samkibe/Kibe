@@ -1,4 +1,4 @@
-<header>
+<header align = top>
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
