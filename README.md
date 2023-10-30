@@ -1,4 +1,36 @@
 
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          José Lise
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/machine-learning/" >Data Science</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/software-engineering/" >Data Analytics</a>
+           <!-- </li><li class="masthead__menu-item"> -->
+              <a href="/categories/hadoop-spark/" >Stories of Amazing Grace</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+
  <!-- Me section -->
  <section class="container">
 
