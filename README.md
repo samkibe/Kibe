@@ -17,11 +17,7 @@
            <!-- </li><li class="masthead__menu-item"> -->
               <a href="/categories/hadoop-spark/" >Stories of Amazing Grace</a>
             </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
+            
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
