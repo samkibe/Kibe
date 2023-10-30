@@ -13,10 +13,11 @@
       <div id="hobbies_text" class="w-full text-start"> | DATA | Its mining & Analysis</div>
     </div>
     
- ![retrocity](https://github.com/samkibe/samkibe.github.io/assets/25104443/fc5547c9-c57d-4c30-b03b-70b684ac0e8f)
+
     <!-- Todo : Cycle through different things i like -->
   </section>
-![retrocoding](https://github.com/samkibe/samkibe.github.io/assets/25104443/6edd7a26-6905-4d08-8d5b-661c3163e78a)
+![retrocity](https://github.com/samkibe/samkibe.github.io/assets/25104443/fc5547c9-c57d-4c30-b03b-70b684ac0e8f)
+<!-- ![retrocoding](https://github.com/samkibe/samkibe.github.io/assets/25104443/6edd7a26-6905-4d08-8d5b-661c3163e78a) -- >
   <!-- Footer Section -->
   <footer class="footer bg-primary pb-3">
   
