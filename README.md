@@ -30,16 +30,19 @@
 <!-- ![retrocoding](https://github.com/samkibe/samkibe.github.io/assets/25104443/6edd7a26-6905-4d08-8d5b-661c3163e78a) -->
   <!-- Footer Section -->
   <footer class="footer bg-primary pb-3">
-<div>
+
+    
+      <div class="text-center on-primary alpha50">
           <a href="https://github.com/" target="_blank"><i class="uil uil-github footer-icon mr-3 on-primary icon-medium"></i></a>
           <a href="https://twitter.com/" target="_blank"><i class="uil uil-twitter footer-icon mr-3 on-primary icon-medium"></i></a>
           <a href="https://ke.linkedin.com/in/" target="_blank"><i class="uil uil-linkedin footer-icon mr-3 on-primary icon-medium"></i></a>
-        </div>
+       
 
 
   
       <div class="text-center on-primary alpha50">
         © <span id="footer_year_text" class="on-primary"></span> 2023, Samuel Kibe. All rights reserved
       </div>
+       </div>
   </footer>
 
