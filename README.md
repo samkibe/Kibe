@@ -31,9 +31,10 @@
          
       <div class="text-center on-primary alpha50">
         © <span id="footer_year_text" class="on-primary"></span> 2023, Samuel Kibe. All rights reserved
-         <a href="https://github.com/" target="_blank"><i class="uil uil-github footer-icon mr-3 on-primary icon-medium"></i></a>
-          <a href="https://twitter.com/" target="_blank"><i class="uil uil-twitter footer-icon mr-3 on-primary icon-medium"></i></a>
-          <a href="https://ke.linkedin.com/in/" target="_blank"><i class="uil uil-linkedin footer-icon mr-3 on-primary icon-medium"></i></a>
+         <div class="me text-center flex">
+      <div class="w-full text-end">i love&nbsp;</div>
+      <div id="hobbies_text" class="w-full text-start">cycling</div>
+    </div>
       </div>
        </div>
   </footer>
