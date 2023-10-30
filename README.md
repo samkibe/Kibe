@@ -1,4 +1,4 @@
-<div class="notice--danger align-center" style="margin: 0;">
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
