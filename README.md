@@ -1,9 +1,9 @@
 <div class="topnav">
-  <a class="active" href="#home">About</a>
-  <a href="#news">Data Science</a>
-  <a href="#contact">Data Analytics</a>
-    <a href="#search">Stories of Amazing Grace</a>
-    <a href="#about">What if</a>
+  <a class="About" href="#home">|About|</a>
+  <a href="#Science">|Data Science|</a>
+  <a href="#Analytics">|Data Analytics|</a>
+    <a href="#Grace">|Stories of Amazing Grace|</a>
+   
 </div>
 
 
