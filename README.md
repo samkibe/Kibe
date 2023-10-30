@@ -3,7 +3,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-    <div class="topnav-right">
+   
       
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/https://samkibe.github.io/Kibe/">About</a>
@@ -21,7 +21,7 @@
         <ul class="hidden-links hidden"></ul>
       </nav>
       
-    </div>
+
     </div>
   </div>
 </div>
