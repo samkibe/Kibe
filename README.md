@@ -3,7 +3,7 @@
   <a href="science.html">|Data Science|</a>
   <a href="analytics.html">|Data Analytics|</a>
     <a href="posts.html">|Stories of Amazing Grace|</a>
- <a href="[analytics.html](https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link)">|CV|</a>
+ <a href="https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link">|CV|</a>
    
 </div>
 
