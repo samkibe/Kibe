@@ -31,8 +31,8 @@
       <div class="text-center on-primary alpha50">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <a href="#" class="fa fa-github"></a>
-       <a href="#" class="fa fa-twitter"></a>
-        <a href="#" class="fa fa-LinkedIn"></a>
+      <a href="#" class="fa fa-twitter"></a>
+      <a href="#" class="fa fa-linkedIn"></a>
       
          
       <div class="text-center on-primary alpha50">
