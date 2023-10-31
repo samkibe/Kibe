@@ -1,8 +1,8 @@
 <div class="topnav">
-  <a class="About" href="#home">|About|</a>
-  <a href="#Science">|Data Science|</a>
-  <a href="#Analytics">|Data Analytics|</a>
-    <a href="posts.md">|Stories of Amazing Grace|</a>
+  <a class="About" href="README.md">|About|</a>
+  <a href="science.html">|Data Science|</a>
+  <a href="analytics.html">|Data Analytics|</a>
+    <a href="posts.html">|Stories of Amazing Grace|</a>
    
 </div>
 
