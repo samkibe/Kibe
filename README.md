@@ -2,7 +2,7 @@
   <a class="About" href="#home">|About|</a>
   <a href="#Science">|Data Science|</a>
   <a href="#Analytics">|Data Analytics|</a>
-    <a href="#[Posts](https://github.com/samkibe/Kibe/tree/main/Stories%20of%20Amazing%20Grace.md)">|Stories of Amazing Grace|</a>
+    <a href="https://github.com/samkibe/Kibe/tree/main/Stories%20of%20Amazing%20Grace.md">|Stories of Amazing Grace|</a>
    
 </div>
 
