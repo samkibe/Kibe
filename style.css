@@ -2,10 +2,10 @@ header {
   background-color: white;
   text-align: center;
 }
-body {
+/* body {
 /* background-image: url("./assets/sk.jpg"); */
 
-}
+
 menu {
   list-style: none; /* Remove bullet points for list items if this is a list-based menu */
   padding: 0; /* Remove padding on the menu */
