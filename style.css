@@ -3,7 +3,8 @@ header {
   text-align: center;
 }
 body {
-  background-image: url("sk.jpg");
+background-image: url("./assets/sk.jpg"); 
+
 }
 menu {
   list-style: none; /* Remove bullet points for list items if this is a list-based menu */
