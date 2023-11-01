@@ -1,6 +1,7 @@
 header {
-  background-color: green;
+  background-color: light-green;
   text-align: center
+  text-color: white
 }
 menu {
   list-style: none; /* Remove bullet points for list items if this is a list-based menu */
