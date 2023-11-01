@@ -1,5 +1,15 @@
-header {
-  background-color: white;
-  text-align: center
-  text-color: white
+menu {
+  list-style: none; /* Remove bullet points for list items if this is a list-based menu */
+  padding: 0; /* Remove padding on the menu */
+  margin: 0; /* Remove margin on the menu */
+}
+
+menu li {
+  display: inline; /* Display menu items horizontally */
+  margin-right: 10px; /* Add spacing between menu items */
+}
+
+menu a {
+  text-decoration: none; /* Remove underline from menu links */
+  color: white; /* Set the text color to white */
 }
