@@ -18,3 +18,7 @@ menu a {
   text-decoration: none; /* Remove underline from menu links */
   color: white; /* Set the text color to white */
 }
+
+body {
+   text-align: center;
+} 
