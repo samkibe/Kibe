@@ -52,7 +52,30 @@
 </body>
 
 <footer> 
+  <section class="container">
+    <div class="me text-center flex">
+      <div class="w-full text-end">Its all about &nbsp;</div>
+      <div id="hobbies_text" class="w-full text-start">Data</div>
+    </div>
+    <!-- Todo: Create an array of hobbies and cycle through them -->
+  </section>
+  <script>
+    const hobbies = ["Science of Data", "God", "Machine Learning", "Analytics"]; // Add your hobbies to this array
   
+    const hobbiesText = document.getElementById("hobbies_text");
+    let currentIndex = 0;
+  
+    function cycleHobbies() {
+      hobbiesText.textContent = hobbies[currentIndex];
+      currentIndex = (currentIndex + 1) % hobbies.length;
+    }
+  
+    // Call the cycleHobbies function every 3 seconds (you can adjust the time)
+    setInterval(cycleHobbies, 3000);
+  </script>
+    
+</section>
+ 
   
 </footer>
 </html>
