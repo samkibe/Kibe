@@ -7,30 +7,9 @@
    
 </div>
 
-  <div class="me text-center flex">
-      <div class="w-full text-end"> While you are here, it is all about, &nbsp;</div>
-      <div id="hobbies_text" class="w-full text-start">Data</div>
-    </div>
-    <!-- Todo: Create an array of hobbies and cycle through them -->
-  </section>
-  <script>
-    const hobbies = ["|GOD|","|Data Science|", "|Python|","|R|","|Machine Learning|", "|FAMILY|", "|Data Analytics|", "|SQL|","|Tableau|", "|Microsoft Excel|", "|CHRIST|"]; // Add your hobbies to this array
-  
-    const hobbiesText = document.getElementById("hobbies_text");
-    let currentIndex = 0;
-  
-    function cycleHobbies() {
-      hobbiesText.textContent = hobbies[currentIndex];
-      currentIndex = (currentIndex + 1) % hobbies.length;
-    }
-  
-    // Call the cycleHobbies function every 3 seconds (you can adjust the time)
-    setInterval(cycleHobbies, 1000);
-  </script>
     
 </section>
  
-
 
  <!-- Me section -->
  <section class="container">
@@ -40,12 +19,12 @@
     <h3> Hi world! nice to meet you!! I Suppose you treasure Data like we all do, well, I am a current MSc Data Science student, with a foundation in Business Intelligence.</h3>
      <h2>Very welcome to my blog % page!!</h2>
   
-   <!--   <div class="w-full text-end">  While you are here, it is all about, &nbsp;</div>
+     <div class="w-full text-end">  While you are here, it is all about, &nbsp;</div>
       <div id="hobbies_text" class="w-full text-start"> Machine Learning | DATA | &Its Mining & Analysis. &GOD</div>
     </div> -->
     
-    <!-- Todo : Cycle through different things i like -->
-  </section>
+    <!-- Todo : Cycle through different things i like 
+  </section> 
   
 ![retrocity](https://github.com/samkibe/samkibe.github.io/assets/25104443/fc5547c9-c57d-4c30-b03b-70b684ac0e8f) 
 <!-- ![retrocoding](https://github.com/samkibe/samkibe.github.io/assets/25104443/6edd7a26-6905-4d08-8d5b-661c3163e78a) -->
