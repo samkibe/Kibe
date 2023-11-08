@@ -6,11 +6,7 @@
  <a href="https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link">|CV|</a>
    
 </div>
-
-    
-</section>
- 
-
+  
  <!-- Me section -->
  <section class="container">
 
@@ -21,9 +17,9 @@
   
      <div class="w-full text-end">  While you are here, it is all about, &nbsp;</div>
       <div id="hobbies_text" class="w-full text-start"> Machine Learning | DATA | &Its Mining & Analysis. &GOD</div>
-    </div> -->
+    </div> 
     
-    <!-- Todo : Cycle through different things i like 
+    <!-- Todo : Cycle through different things i like -->
   </section> 
   
 ![retrocity](https://github.com/samkibe/samkibe.github.io/assets/25104443/fc5547c9-c57d-4c30-b03b-70b684ac0e8f) 
