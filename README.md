@@ -7,6 +7,30 @@
    
 </div>
 
+  <div class="me text-center flex">
+      <div class="w-full text-end"> While you are here, it is all about, &nbsp;</div>
+      <div id="hobbies_text" class="w-full text-start">Data</div>
+    </div>
+    <!-- Todo: Create an array of hobbies and cycle through them -->
+  </section>
+  <script>
+    const hobbies = ["|GOD|","|Data Science|", "|Python|","|R|","|Machine Learning|", "|FAMILY|", "|Data Analytics|", "|SQL|","|Tableau|", "|Microsoft Excel|", "|CHRIST|"]; // Add your hobbies to this array
+  
+    const hobbiesText = document.getElementById("hobbies_text");
+    let currentIndex = 0;
+  
+    function cycleHobbies() {
+      hobbiesText.textContent = hobbies[currentIndex];
+      currentIndex = (currentIndex + 1) % hobbies.length;
+    }
+  
+    // Call the cycleHobbies function every 3 seconds (you can adjust the time)
+    setInterval(cycleHobbies, 1000);
+  </script>
+    
+</section>
+ 
+
 
  <!-- Me section -->
  <section class="container">
