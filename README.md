@@ -36,7 +36,7 @@
       
          
       <div class="text-center on-primary alpha50">
-        © <span id="footer_year_text" class="on-primary"></span> 2023, Samuel Kibe. All rights reserved.
+        © <span id="footer_year_text" class="on-primary"></span> 2024, Samuel Kibe. All rights reserved.
   
 
       </div>
