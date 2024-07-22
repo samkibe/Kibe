@@ -3,9 +3,10 @@
   <a href="science.html">|Data Science|</a>
   <a href="analytics.html">|Data Analytics|</a>
     <a href="posts.html">|Stories of Amazing Grace|</a>
+     <a href="[https://drive.google.com/drive/u/0/folders/1Ieo2_PF3ju3dqIGmA4RXSI50bpZ9bg1u]">|CV|</a>
 <!-- <a href="[https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link]">|CV|</a> -->
 
-   <a href="[https://drive.google.com/drive/u/0/folders/1Ieo2_PF3ju3dqIGmA4RXSI50bpZ9bg1u]">|CV|</a>
+  
    
 </div>
   
