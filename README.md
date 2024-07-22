@@ -2,9 +2,10 @@
 <!-- <a class="About" href="https://samkibe.github.io/Kibe/">|Home|</a> -->
   <a href="science.html">|Data Science|</a>
   <a href="analytics.html">|Data Analytics|</a>
-    <a href="posts.html">|Stories of Amazing Grace|</a>
+  <a href="posts.html">|Stories of Amazing Grace|</a>
+  <a href="[https://drive.google.com/file/d/1YCbc3kZwLwByUL8mW7qMYR8Ld2kCRbg2/view?usp=drive_link]">|CV|</a> 
    <!--   <a href="[https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link]">|CV|</a>  -->
-     <a href="(https://drive.google.com/file/d/1YCbc3kZwLwByUL8mW7qMYR8Ld2kCRbg2/view?usp=drive_link)">|CV|</a> 
+
 
   
    
@@ -15,8 +16,8 @@
 
 <div class="me text-center flex">
     
-    <h3> Hi world! nice to meet you!! I Suppose you treasure Data like we all do, well, I am a current MSc Data Science student, with a foundation in Business Intelligence.</h3>
-     <h2>Very welcome to my blog % page!!</h2>
+    <h3> Hi world! nice to meet you!! I Suppose you treasure Data like we all do, well, I am a Data Scientist , with a foundation in Business Intelligence.</h3>
+     <h2>Very welcome to my SITE!!</h2>
   
      <div class="w-full text-end">  While you are here, it is all about, &nbsp;</div>
       <div id="hobbies_text" class="w-full text-start"> Machine Learning| NLP | Data Science|  Text ~ Data, Its Mining & Analysis</div>
