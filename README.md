@@ -3,8 +3,7 @@
   <a href="science.html">|Data Science|</a>
   <a href="analytics.html">|Data Analytics|</a>
     <a href="posts.html">|Stories of Amazing Grace|</a>
-     <a href="[https://drive.google.com/drive/u/0/folders/1Ieo2_PF3ju3dqIGmA4RXSI50bpZ9bg1u]">|CV|</a>
-<!-- <a href="[https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link]">|CV|</a> -->
+      <a href="[https://drive.google.com/file/d/1T73RT6hLGxu1q9obPToKgYoYK5Bont7X/view?usp=drive_link]">|CV|</a>
 
   
    
@@ -19,7 +18,7 @@
      <h2>Very welcome to my blog % page!!</h2>
   
      <div class="w-full text-end">  While you are here, it is all about, &nbsp;</div>
-      <div id="hobbies_text" class="w-full text-start"> Machine Learning| NLP | Data Science| DATA| Text, Its Mining & Analysis</div>
+      <div id="hobbies_text" class="w-full text-start"> Machine Learning| NLP | Data Science|  Text ~ Data, Its Mining & Analysis</div>
     </div> 
     
    
