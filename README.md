@@ -21,7 +21,7 @@
      <h2>Very welcome to my Page!!</h2>
   
      <div class="w-full text-end">  While you are here, it is all about, Data Science and its Engineering &nbsp;</div>
-      <div id="hobbies_text" class="w-full text-start"> ML | DL | NLP | AI towards Health Informatics | Text ~ Data, Its Mining & Analysis</div>
+      <div id="hobbies_text" class="w-full text-start"> ML | DL | NLP | AI towards Health Informatics | Text, Its Mining & Analysis</div>
     </div> 
     
    
