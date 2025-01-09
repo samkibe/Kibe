@@ -38,7 +38,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <a href="https://github.com/samkibe" class="fa fa-github"></a>
       <a href="https://twitter.com/kibe_ish" class="fa fa-twitter"></a>
-      <a href="https://www.linkedin.com/in/samwel-kibe-455847131/"></a>
+      <a href="https://www.linkedin.com/in/samwel-kibe-455847131/" class="fa fa-linkedin"></a>
       
          
       <div class="text-center on-primary alpha50">
